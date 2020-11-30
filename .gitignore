@@ -1,0 +1,26 @@
+__pycache__/
+checkpoints/
+data/
+Fig/
+Pos_fig/
+TSNE_fig/
+experiment_log/
+/.idea/
+*.zip
+*.backup
+*.npz
+*.npy
+*.h5
+.fuse*
+.~lock*
+*.so
+*.ckpt.*
+*.pyc
+*.out.*
+model/.Pointnet2_PyTorch/
+*.pkl
+note
+experiment
+train_models
+record models
+.vscode/
