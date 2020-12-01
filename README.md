@@ -3,7 +3,7 @@
 ## Quick Visualization
 ![](figure/reg.gif)
 
-This is the our IROS 2020 work. VCR-Net is a deep-learning approach designed for performing rigid partial-partial point cloud registration. Our paper can be found on [Arxiv]().
+This is the our IROS 2020 work. VCR-Net is a deep-learning approach designed for performing rigid partial-partial point cloud registration. Our paper can be found on [Arxiv](https://arxiv.org/pdf/2011.14579.pdf).
 
 ```
 @inproceedings{qiao2020vcrnet, 
