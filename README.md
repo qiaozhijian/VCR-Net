@@ -6,12 +6,7 @@
 This is the our IROS 2020 work. VCR-Net is a deep-learning approach designed for performing rigid partial-partial point cloud registration. Our paper can be found on [Arxiv](https://arxiv.org/pdf/2011.14579.pdf).
 
 ```
-@inproceedings{qiao2020vcrnet, 
-    title={End-to-End 3D Point Cloud Learning for Registration Task Using Virtual Correspondences}, 
-    author={Zhijian Qiao, Zhe Liu, Chuanzhe Suo, Huanshu Wei, Hesheng Wang}, 
-    booktitle={The IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)},
-    year={2020} 
-}
+@INPROCEEDINGS{9341249,  author={Wei, Huanshu and Qiao, Zhijian and Liu, Zhe and Suo, Chuanzhe and Yin, Peng and Shen, Yueling and Li, Haoang and Wang, Hesheng},  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},   title={End-to-End 3D Point Cloud Learning for Registration Task Using Virtual Correspondences},   year={2020},  volume={},  number={},  pages={2678-2683},  doi={10.1109/IROS45743.2020.9341249}}
 ```
 ## Prerequisites
 ```
